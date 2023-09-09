@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-todo-list/static/css/main.b2a3514f.css",
+    "main.js": "/create-todo-list/static/js/main.52401c51.js",
+    "static/media/bg-desktop-light.jpg": "/create-todo-list/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/create-todo-list/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/create-todo-list/index.html",
+    "main.b2a3514f.css.map": "/create-todo-list/static/css/main.b2a3514f.css.map",
+    "main.52401c51.js.map": "/create-todo-list/static/js/main.52401c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a3514f.css",
+    "static/js/main.52401c51.js"
+  ]
+}
